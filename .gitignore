@@ -1,0 +1,9 @@
+*.log
+.DS_Store
+/node_modules
+/packages/*/node_modules
+.cache
+dist
+coverage/
+packages/generator/__tests__/assets/pdfs/tmp/*.pdf
+
