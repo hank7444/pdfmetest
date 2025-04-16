@@ -1,8 +1,8 @@
 {
-  "name": "@pdfme/ui",
-  "version": "5.2.16.1",
+  "name": "@cdktest/pdfme-ui",
+  "version": "5.2.16-internal.5",
   "sideEffects": false,
-  "author": "hand-dot",
+  "author": "hank.kuo@cdk.com",
   "license": "MIT",
   "keywords": [
     "pdf",
@@ -50,7 +50,7 @@
     "react-selecto": "^1.12.0"
   },
   "devDependencies": {
-    "@pdfme/common": "file:../common",
+    "@pdfme/common": "npm:@cdktest/pdfme-common@^5.2.16-internal.5",
     "@pdfme/schemas": "5.2.16",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -70,8 +70,8 @@
     "vite-tsconfig-paths": "^4.2.1"
   },
   "peerDependencies": {
-    "@pdfme/common": "file:../common",
-    "@pdfme/schemas": "5.2.16"
+    "@pdfme/common": "npm:@cdktest/pdfme-common@^5.2.16-internal.5",
+    "@pdfme/schemas": "5.2.16" 
   },
   "jest": {
     "testEnvironment": "jest-environment-jsdom",

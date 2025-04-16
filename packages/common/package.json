@@ -1,8 +1,8 @@
 {
-  "name": "@pdfme/common",
-  "version": "5.2.16.1",
+  "name": "@cdktest/pdfme-common",
+  "version": "5.2.16-internal.5",
   "sideEffects": false,
-  "author": "hand-dot",
+  "author": "hank.kuo@cdk.com",
   "license": "MIT",
   "keywords": [
     "pdf",
