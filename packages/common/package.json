@@ -1,6 +1,6 @@
 {
-  "name": "@cdktest/pdfme-common",
-  "version": "5.2.16-internal.5",
+  "name": "@cdkdev/pdfme--common",
+  "version": "5.2.16-internal.1",
   "sideEffects": false,
   "author": "hank.kuo@cdk.com",
   "license": "MIT",
