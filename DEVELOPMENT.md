@@ -1,7 +1,7 @@
 # Build
 
 - Clone the repository
-- install dependency with `npm install --legacy-peer-deps`
+- install dependency with `npm install`
 - build the packages with `npm run build`
 
 ```cmd
@@ -34,7 +34,7 @@ We're using version 5.2.16 as the base. Any internal updates should follow the c
 ```
 
 For example:
-- First internal update: 5.2.16.1
-- Second internal update: 5.2.16.2
+- First internal update: 5.2.16-internal.1
+- Second internal update: 5.2.16-internal.2
 
 Before publishing, make sure to update the version field in each package.json file accordingly.
