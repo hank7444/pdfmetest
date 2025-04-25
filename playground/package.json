@@ -12,10 +12,8 @@
   "dependencies": {
     "@headlessui/react": "^2.2.1",
     "@heroicons/react": "^2.2.0",
-    "@pdfme/common": "npm:@cdkdev/pdfme--common@^5.2.16-internal.1",
     "@pdfme/generator": "5.2.16",
     "@pdfme/schemas": "5.2.16",
-    "@pdfme/ui": "npm:@cdkdev/pdfme--ui@^5.2.16-internal.1",
     "esbuild": "^0.19.10",
     "lodash": "^4.17.21",
     "pdfjs-dist": "^3.11.174",
